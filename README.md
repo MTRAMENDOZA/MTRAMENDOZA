@@ -1,4 +1,4 @@
-<img scr="3.jpg">
+<img scr="3.jpg"> 
 hola, SOY MTRA.MENDOZA
 - 🔭 I’m currently working on ...bachillerato general.
 - 🌱 I’m currently learning ...el uso de la tecnología.
